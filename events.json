@@ -346,5 +346,20 @@
       "source_log": "check-2026-11-15-0056.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
+  },
+  {
+    "id": "evt-c1b34f7f299b776a4c61",
+    "ts": "2026-11-15T01:05:06+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27143,
+        "bangpateng": 93574,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-0101.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
   }
 ]
