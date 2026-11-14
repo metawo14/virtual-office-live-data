@@ -264,5 +264,20 @@
       "total_volume_bnb": 29.46610094,
       "source_file": "nft-floors-2026-11-15-0027.jsonl"
     }
+  },
+  {
+    "id": "evt-561f2db2d9bcfaa62e02",
+    "ts": "2026-11-15T00:44:51+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27143,
+        "bangpateng": 93573,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-0041.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
   }
 ]
