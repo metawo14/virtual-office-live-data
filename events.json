@@ -958,5 +958,20 @@
       "trigger_usd": 1000000,
       "reached": false
     }
+  },
+  {
+    "id": "evt-16bf0f82f90109ad0223",
+    "ts": "2026-11-15T02:50:08+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27143,
+        "bangpateng": 93574,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-0246.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
   }
 ]
