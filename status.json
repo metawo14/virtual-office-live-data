@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:32:17+07:00",
+  "updated_at": "2026-11-15T06:34:28+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -35,19 +35,19 @@
     {
       "id": "PASAR",
       "role": "pantau jual NFT + auto-sell",
-      "status": "idle",
-      "balance": 0.04114075,
+      "status": "bekerja",
+      "balance": 0.0257976,
       "balance_unit": "BNB",
-      "balance_note": "jumlah floor 177 koleksi (bukan saldo wallet)",
-      "volume": 29.46660094,
+      "balance_note": "jumlah floor 120 koleksi (bukan saldo wallet)",
+      "volume": 1.071624,
       "volume_unit": "BNB",
-      "volume_note": "total volume 177 koleksi dari sweep floor terakhir (nft-floors-2026-11-15-0557.jsonl)",
+      "volume_note": "total volume 120 koleksi dari sweep floor terakhir (nft-floors-2026-11-15-0627.jsonl)",
       "remaining_target": null,
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": null,
-      "last_event_ts": "2026-11-15T06:08:19+07:00",
-      "last_activity_ts": "2026-11-15T06:08:19+07:00"
+      "last_event_ts": "2026-11-15T06:34:02+07:00",
+      "last_activity_ts": "2026-11-15T06:34:02+07:00"
     },
     {
       "id": "TUGAS",
@@ -64,7 +64,7 @@
       "remaining_target_note": null,
       "script_version": null,
       "last_event_ts": null,
-      "last_activity_ts": "2026-11-15T06:28:23+07:00"
+      "last_activity_ts": "2026-11-15T06:33:26+07:00"
     },
     {
       "id": "KODE",
@@ -97,8 +97,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": "1.0",
-      "last_event_ts": "2026-11-15T06:31:33+07:00",
-      "last_activity_ts": "2026-11-15T06:32:17+07:00"
+      "last_event_ts": "2026-11-15T06:34:02+07:00",
+      "last_activity_ts": "2026-11-15T06:34:28+07:00"
     }
   ]
 }
