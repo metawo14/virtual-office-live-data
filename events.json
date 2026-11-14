@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-3bb47601b9c4029b11cd",
-    "ts": "2026-11-15T02:50:37+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 9060.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-748e0d1fa0f37f5c043d",
-    "ts": "2026-11-15T02:54:47+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27143,
-        "bangpateng": 93574,
-        "happycuan": 29487
-      },
-      "source_log": "check-2026-11-15-0251.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-eee2ea8d9c516cf5f183",
-    "ts": "2026-11-15T02:56:15+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 9060.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-5f396dde005e48a04c11",
     "ts": "2026-11-15T02:59:55+07:00",
     "agent": "BURU",
@@ -1319,6 +1282,41 @@
       "total_floor_bnb": 0.03532398,
       "total_volume_bnb": 1.072262,
       "source_file": "nft-floors-2026-11-15-0557.jsonl"
+    }
+  },
+  {
+    "id": "evt-18a2cbfbb4ccb9096f7b",
+    "ts": "2026-11-15T06:08:19+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 0.04114075,
+      "total_volume_bnb": 29.46660094,
+      "source_file": "nft-floors-2026-11-15-0557.jsonl"
+    }
+  },
+  {
+    "id": "evt-79f8602adac5e0c99764",
+    "ts": "2026-11-15T06:09:31+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-iao-mcap-2026-11-15-0609.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-5f413fcaecaf319053b5",
+    "ts": "2026-11-15T06:09:49+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8488.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
