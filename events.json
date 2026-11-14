@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-9ca17144489bb82fbe71",
-    "ts": "2026-11-14T21:56:01+07:00",
-    "agent": "TUGAS",
-    "type": "loker",
-    "data": {
-      "findings_total": 52
-    }
-  },
-  {
     "id": "evt-82969e78bc2653f172e0",
     "ts": "2026-11-14T21:56:52+07:00",
     "agent": "KODE",
@@ -1302,6 +1293,17 @@
       "total_floor_bnb": 0.04114075,
       "total_volume_bnb": 29.46635094,
       "source_file": "nft-floors-2026-11-15-0327.jsonl"
+    }
+  },
+  {
+    "id": "evt-5b6c5fc02b8f22e744eb",
+    "ts": "2026-11-15T03:40:00+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8680.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
