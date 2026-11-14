@@ -93,5 +93,31 @@
       "round": 15,
       "file": "main-round15.py"
     }
+  },
+  {
+    "id": "evt-dd4e1f207abdc350f9c9",
+    "ts": "2026-11-15T00:24:52+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27143,
+        "bangpateng": 93573,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-0021.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-f8b8ce88ed8c2d106d4e",
+    "ts": "2026-11-15T00:25:01+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8698.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
   }
 ]
