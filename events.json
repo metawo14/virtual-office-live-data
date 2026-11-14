@@ -1142,5 +1142,16 @@
       "source_log": "check-2026-11-15-0306.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
+  },
+  {
+    "id": "evt-9a87c30106c3b5af805b",
+    "ts": "2026-11-15T03:10:34+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 9060.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
   }
 ]
