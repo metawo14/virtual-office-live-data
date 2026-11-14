@@ -1244,5 +1244,18 @@
       "source_log": "check-2026-11-15-0326.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
+  },
+  {
+    "id": "evt-a49fea85865714cf2765",
+    "ts": "2026-11-15T03:31:59+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 60,
+      "http_ok": 60,
+      "total_floor_bnb": 0.00793505,
+      "total_volume_bnb": 0.893335,
+      "source_file": "nft-floors-2026-11-15-0327.jsonl"
+    }
   }
 ]
