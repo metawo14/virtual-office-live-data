@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:36:17+07:00",
+  "updated_at": "2026-11-15T19:38:20+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -30,7 +30,7 @@
       "remaining_target_note": "maks 7/wallet, saldo BAGENT on-chain 0 -> 0 terpakai",
       "script_version": null,
       "last_event_ts": "2026-11-15T19:34:43+07:00",
-      "last_activity_ts": "2026-11-15T19:34:43+07:00"
+      "last_activity_ts": "2026-11-15T19:36:56+07:00"
     },
     {
       "id": "PASAR",
@@ -98,7 +98,7 @@
       "remaining_target_note": null,
       "script_version": "1.0",
       "last_event_ts": "2026-11-15T19:35:16+07:00",
-      "last_activity_ts": "2026-11-15T19:36:17+07:00"
+      "last_activity_ts": "2026-11-15T19:38:20+07:00"
     }
   ]
 }
