@@ -1,29 +1,5 @@
 [
   {
-    "id": "evt-5e6512080ad83d70c05e",
-    "ts": "2026-11-15T08:05:20+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27144,
-        "bangpateng": 93576,
-        "happycuan": 29487
-      },
-      "source_log": "check-2026-11-15-0801.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-225d1ac555af1759dcbb",
-    "ts": "2026-11-15T08:06:11+07:00",
-    "agent": "BURU",
-    "type": "bagent",
-    "data": {
-      "detail": "[2026-11-15 08:06:11 WIB] percobaan 105/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
-    }
-  },
-  {
     "id": "evt-4fa3fc67e77aafcca890",
     "ts": "2026-11-15T08:06:51+07:00",
     "agent": "PASAR",
@@ -1270,6 +1246,32 @@
       },
       "source_log": "check-2026-11-15-1106.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-65c3f14c4ef51f497904",
+    "ts": "2026-11-15T11:14:42+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27153,
+        "bangpateng": 93580,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-1111.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-cc3617040ca08aae95c8",
+    "ts": "2026-11-15T11:15:09+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8488.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
