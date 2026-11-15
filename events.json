@@ -1,20 +1,5 @@
 [
   {
-    "id": "evt-a35d27d8a27a12f35247",
-    "ts": "2026-11-15T06:21:11+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27143,
-        "bangpateng": 93574,
-        "happycuan": 29487
-      },
-      "source_log": "check-2026-11-15-0618.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-0bbb7127577ebe4e9bd2",
     "ts": "2026-11-15T06:25:58+07:00",
     "agent": "BURU",
@@ -1144,6 +1129,17 @@
     "type": "bagent",
     "data": {
       "detail": "RESULT: SLOTS_CLOSED day=20772 attempts=120"
+    }
+  },
+  {
+    "id": "evt-686f0d9e0e2863fa53a8",
+    "ts": "2026-11-15T08:24:42+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8488.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
