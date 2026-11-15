@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-3ac504c6f3f345aefccf",
-    "ts": "2026-11-15T13:59:40+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7444.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-9dcde418039c989c98d6",
     "ts": "2026-11-15T13:59:43+07:00",
     "agent": "PASAR",
@@ -1311,6 +1300,15 @@
       "mcap_usd": 8824.0,
       "trigger_usd": 1000000,
       "reached": false
+    }
+  },
+  {
+    "id": "evt-d247a0aaa6c095da92b0",
+    "ts": "2026-11-15T17:13:01+07:00",
+    "agent": "KODE",
+    "type": "makefun_submission",
+    "data": {
+      "slug": "btc-race-24h-20261115-0828"
     }
   }
 ]
