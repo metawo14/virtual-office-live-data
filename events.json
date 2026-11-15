@@ -1,44 +1,5 @@
 [
   {
-    "id": "evt-edbd7f13093e89300b7d",
-    "ts": "2026-11-15T14:59:33+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7444.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-2e0af1bd22474455bdeb",
-    "ts": "2026-11-15T14:59:46+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27156,
-        "bangpateng": 93586,
-        "happycuan": 29487
-      },
-      "source_log": "check-2026-11-15-1456.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-bda37f30d5905ebc5a80",
-    "ts": "2026-11-15T15:00:11+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.00156202,
-      "total_volume_bnb": 0.889032,
-      "source_file": "nft-floors-2026-11-15-1457-s1.jsonl"
-    }
-  },
-  {
     "id": "evt-230d0ad493c8e12d20d5",
     "ts": "2026-11-15T15:02:19+07:00",
     "agent": "PASAR",
@@ -1313,6 +1274,42 @@
       },
       "source_log": "check-2026-11-15-1811.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-7d33dd114fdc455c4033",
+    "ts": "2026-11-15T18:19:18+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8877.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-bb60a250d5aca56eaeec",
+    "ts": "2026-11-15T18:19:30+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27160,
+        "bangpateng": 93588,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-1816.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-aaf1062a85e828e10012",
+    "ts": "2026-11-15T18:20:09+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-14 12:12:57 UTC | job 113a983f-e8aa-482b-8fb8-489fd36c7dec | ANSWERED 5481 chars | 188s",
+      "job": "113a983f-e8aa-482b-8fb8-489fd36c7dec"
     }
   }
 ]
