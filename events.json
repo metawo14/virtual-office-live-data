@@ -1,31 +1,5 @@
 [
   {
-    "id": "evt-0bbb7127577ebe4e9bd2",
-    "ts": "2026-11-15T06:25:58+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27143,
-        "bangpateng": 93574,
-        "happycuan": 29487
-      },
-      "source_log": "check-2026-11-15-0621.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-8cd9b325f26860b75983",
-    "ts": "2026-11-15T06:29:35+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8488.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-0b9420d59f5b171fbc4a",
     "ts": "2026-11-15T06:31:33+07:00",
     "agent": "BURU",
@@ -1140,6 +1114,30 @@
       "mcap_usd": 8488.0,
       "trigger_usd": 1000000,
       "reached": false
+    }
+  },
+  {
+    "id": "evt-398847e57b5d7a56c593",
+    "ts": "2026-11-15T08:26:30+07:00",
+    "agent": "KODE",
+    "type": "makefun_submission",
+    "data": {
+      "slug": "bring-the-humans-01"
+    }
+  },
+  {
+    "id": "evt-2d6c3f694a673a7e4e9c",
+    "ts": "2026-11-15T08:27:20+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27144,
+        "bangpateng": 93577,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-0821.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
