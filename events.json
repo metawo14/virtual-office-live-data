@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-2cf4aeece22fa47e5373",
-    "ts": "2026-11-15T07:21:24+07:00",
-    "agent": "BURU",
-    "type": "bagent",
-    "data": {
-      "detail": "</html>) — slot belum buka/habis"
-    }
-  },
-  {
     "id": "evt-bbd8434466ce94a76525",
     "ts": "2026-11-15T07:23:26+07:00",
     "agent": "BURU",
@@ -1173,6 +1164,21 @@
         "happycuan": 29487
       },
       "source_log": "check-2026-11-15-0936.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-4ced30d2d9448f8052d8",
+    "ts": "2026-11-15T09:44:44+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27150,
+        "bangpateng": 93577,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-15-0941.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
