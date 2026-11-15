@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:28:16+07:00",
+  "updated_at": "2026-11-15T12:30:18+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -22,32 +22,32 @@
       "balance": 0.0013576,
       "balance_unit": "BNB",
       "balance_note": "saldo BNB wallet Agentic (dipakai untuk gas mint/claim)",
-      "volume": 304,
+      "volume": 303,
       "volume_unit": "cek mint-watch / 24 jam",
       "volume_note": "jumlah run cek mint gratis dalam 24 jam terakhir (file log)",
       "remaining_target": 7,
       "remaining_target_unit": "klaim BAGENT",
       "remaining_target_note": "maks 7/wallet, saldo BAGENT on-chain 0 -> 0 terpakai",
       "script_version": null,
-      "last_event_ts": "2026-11-15T12:24:29+07:00",
-      "last_activity_ts": "2026-11-15T12:24:29+07:00"
+      "last_event_ts": "2026-11-15T12:29:25+07:00",
+      "last_activity_ts": "2026-11-15T12:29:25+07:00"
     },
     {
       "id": "PASAR",
       "role": "pantau jual NFT + auto-sell",
-      "status": "idle",
-      "balance": 0.04114004,
+      "status": "bekerja",
+      "balance": 0.00156202,
       "balance_unit": "BNB",
-      "balance_note": "jumlah floor 177 koleksi (bukan saldo wallet)",
-      "volume": 29.46660094,
+      "balance_note": "jumlah floor 30 koleksi (bukan saldo wallet)",
+      "volume": 0.889032,
       "volume_unit": "BNB",
-      "volume_note": "total volume 177 koleksi dari sweep floor terakhir (nft-floors-2026-11-15-1157.jsonl)",
+      "volume_note": "total volume 30 koleksi dari sweep floor terakhir (nft-floors-2026-11-15-1227-s1.jsonl)",
       "remaining_target": null,
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": null,
-      "last_event_ts": "2026-11-15T12:05:53+07:00",
-      "last_activity_ts": "2026-11-15T12:05:53+07:00"
+      "last_event_ts": "2026-11-15T12:29:41+07:00",
+      "last_activity_ts": "2026-11-15T12:29:41+07:00"
     },
     {
       "id": "TUGAS",
@@ -64,7 +64,7 @@
       "remaining_target_note": null,
       "script_version": null,
       "last_event_ts": "2026-11-15T09:53:32+07:00",
-      "last_activity_ts": "2026-11-15T12:23:20+07:00"
+      "last_activity_ts": "2026-11-15T12:28:25+07:00"
     },
     {
       "id": "KODE",
@@ -80,7 +80,7 @@
       "remaining_target_unit": null,
       "remaining_target_note": "tiny-chess ronde 16 berjalan; deadline 25 Nov 2026 00:00 WIB",
       "script_version": null,
-      "last_event_ts": "2026-11-15T08:55:47+07:00",
+      "last_event_ts": null,
       "last_activity_ts": "2026-11-15T08:55:51+07:00"
     },
     {
@@ -97,8 +97,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": "1.0",
-      "last_event_ts": "2026-11-15T12:24:29+07:00",
-      "last_activity_ts": "2026-11-15T12:28:16+07:00"
+      "last_event_ts": "2026-11-15T12:29:41+07:00",
+      "last_activity_ts": "2026-11-15T12:30:18+07:00"
     }
   ]
 }
