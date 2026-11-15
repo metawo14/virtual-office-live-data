@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-c9e23773ecd21971f03a",
-    "ts": "2026-11-15T08:08:13+07:00",
-    "agent": "BURU",
-    "type": "bagent",
-    "data": {
-      "detail": "[2026-11-15 08:08:13 WIB] percobaan 107/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
-    }
-  },
-  {
     "id": "evt-e88e9dda4428b42ce9c3",
     "ts": "2026-11-15T08:08:43+07:00",
     "agent": "PASAR",
@@ -1274,6 +1265,17 @@
       },
       "source_log": "check-2026-11-15-1116.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-9785dd5bc24df0790dc7",
+    "ts": "2026-11-15T11:24:12+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8488.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
