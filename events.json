@@ -1,31 +1,5 @@
 [
   {
-    "id": "evt-13ddb7b75df1f25ae035",
-    "ts": "2026-11-15T05:32:22+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 9,
-      "http_ok": 9,
-      "total_floor_bnb": 0.00340946,
-      "total_volume_bnb": 0.0,
-      "source_file": "nft-floors-2026-11-15-0527-s3.jsonl"
-    }
-  },
-  {
-    "id": "evt-a1708848c9f3eeebe2f8",
-    "ts": "2026-11-15T05:34:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 29,
-      "http_ok": 29,
-      "total_floor_bnb": 0.00683797,
-      "total_volume_bnb": 0.172654,
-      "source_file": "nft-floors-2026-11-15-0527-s4.jsonl"
-    }
-  },
-  {
     "id": "evt-6c8e6662d4514d6bc12f",
     "ts": "2026-11-15T05:34:52+07:00",
     "agent": "BURU",
@@ -1193,6 +1167,26 @@
     "type": "bagent",
     "data": {
       "detail": "[2026-11-15 07:58:03 WIB] percobaan 97/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
+    }
+  },
+  {
+    "id": "evt-f86aefd573bc6cb644b0",
+    "ts": "2026-11-15T07:59:41+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8488.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-5a48dd72e8b6c33fdbf9",
+    "ts": "2026-11-15T08:00:05+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-15 08:00:05 WIB] percobaan 99/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
     }
   }
 ]
