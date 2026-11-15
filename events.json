@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-c108f2299e38aa2e1add",
-    "ts": "2026-11-15T22:27:38+07:00",
-    "agent": "KODE",
-    "type": "makefun_submission",
-    "data": {
-      "slug": "makefun-frontend-01"
-    }
-  },
-  {
     "id": "evt-23bf39c6b5a709e9b695",
     "ts": "2026-11-15T22:28:07+07:00",
     "agent": "BURU",
@@ -1311,6 +1302,19 @@
       "total_floor_bnb": 0.00637303,
       "total_volume_bnb": 0.004303,
       "source_file": "nft-floors-2026-11-16-0127-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-6823235eb8919baa938f",
+    "ts": "2026-11-16T01:30:45+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41672949,
+      "total_volume_bnb": 29.46735094,
+      "source_file": "nft-floors-2026-11-16-0127.jsonl"
     }
   }
 ]
