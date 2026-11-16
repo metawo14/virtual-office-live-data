@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:44:26+07:00",
+  "updated_at": "2026-11-17T06:46:20+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -29,13 +29,13 @@
       "remaining_target_unit": "klaim BAGENT",
       "remaining_target_note": "maks 7/wallet, saldo BAGENT on-chain 0 -> 0 terpakai",
       "script_version": null,
-      "last_event_ts": "2026-11-17T06:39:37+07:00",
-      "last_activity_ts": "2026-11-17T06:39:37+07:00"
+      "last_event_ts": "2026-11-17T06:44:54+07:00",
+      "last_activity_ts": "2026-11-17T06:44:54+07:00"
     },
     {
       "id": "PASAR",
       "role": "pantau jual NFT + auto-sell",
-      "status": "bekerja",
+      "status": "idle",
       "balance": 2.41658959,
       "balance_unit": "BNB",
       "balance_note": "jumlah floor 177 koleksi (bukan saldo wallet)",
@@ -97,8 +97,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": "1.0",
-      "last_event_ts": "2026-11-17T06:39:37+07:00",
-      "last_activity_ts": "2026-11-17T06:44:26+07:00"
+      "last_event_ts": "2026-11-17T06:44:54+07:00",
+      "last_activity_ts": "2026-11-17T06:46:20+07:00"
     }
   ]
 }
