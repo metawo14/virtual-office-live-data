@@ -1,44 +1,5 @@
 [
   {
-    "id": "evt-f7b3f0db3920d67fd929",
-    "ts": "2026-11-17T00:35:18+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27189,
-        "bangpateng": 93614,
-        "happycuan": 29489
-      },
-      "source_log": "check-2026-11-17-0031.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-1a3d41a1dacbc903f6ef",
-    "ts": "2026-11-17T00:35:19+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8573.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-f9c5da0b4e3a2aa9ca3b",
-    "ts": "2026-11-17T00:36:22+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 21,
-      "http_ok": 21,
-      "total_floor_bnb": 0.00445147,
-      "total_volume_bnb": 24.78947294,
-      "source_file": "nft-floors-2026-11-17-0027-s6.jsonl"
-    }
-  },
-  {
     "id": "evt-9e2f4334ac598b3ed403",
     "ts": "2026-11-17T00:36:49+07:00",
     "agent": "PASAR",
@@ -1301,6 +1262,45 @@
       "total_floor_bnb": 0.00466642,
       "total_volume_bnb": 0.0,
       "source_file": "nft-floors-2026-11-17-0327-s5.jsonl"
+    }
+  },
+  {
+    "id": "evt-d4ddf96544219688bccd",
+    "ts": "2026-11-17T03:34:32+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8043.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-10c688adaa2a534e7ab1",
+    "ts": "2026-11-17T03:34:56+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27189,
+        "bangpateng": 93615,
+        "happycuan": 29489
+      },
+      "source_log": "check-2026-11-17-0331.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-33d8e93bace1fc1e1e09",
+    "ts": "2026-11-17T03:36:05+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 176,
+      "total_floor_bnb": 2.41612419,
+      "total_volume_bnb": 29.46760094,
+      "source_file": "nft-floors-2026-11-17-0327.jsonl"
     }
   }
 ]
