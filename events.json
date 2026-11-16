@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-653665c6d7134e3885c5",
-    "ts": "2026-11-16T06:38:07+07:00",
-    "agent": "KODE",
-    "type": "makefun_submission",
-    "data": {
-      "slug": "ai-excited-01"
-    }
-  },
-  {
     "id": "evt-398d59fe697df03da758",
     "ts": "2026-11-16T06:39:37+07:00",
     "agent": "BURU",
@@ -1169,6 +1160,17 @@
   {
     "id": "evt-2e7bb0ad8094642742b8",
     "ts": "2026-11-16T08:44:47+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8756.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-48964c3b558fb7d2f62b",
+    "ts": "2026-11-16T08:49:31+07:00",
     "agent": "BURU",
     "type": "iao_check",
     "data": {
