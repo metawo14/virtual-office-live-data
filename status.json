@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T13:14:26+07:00",
+  "updated_at": "2026-11-16T13:16:21+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -35,7 +35,7 @@
     {
       "id": "PASAR",
       "role": "pantau jual NFT + auto-sell",
-      "status": "bekerja",
+      "status": "idle",
       "balance": 2.41656818,
       "balance_unit": "BNB",
       "balance_note": "jumlah floor 177 koleksi (bukan saldo wallet)",
@@ -80,7 +80,7 @@
       "remaining_target_unit": null,
       "remaining_target_note": "tiny-chess ronde 16 berjalan; deadline 25 Nov 2026 00:00 WIB",
       "script_version": null,
-      "last_event_ts": "2026-11-16T09:56:23+07:00",
+      "last_event_ts": null,
       "last_activity_ts": "2026-11-16T09:56:23+07:00"
     },
     {
@@ -98,7 +98,7 @@
       "remaining_target_note": null,
       "script_version": "1.0",
       "last_event_ts": "2026-11-16T13:14:25+07:00",
-      "last_activity_ts": "2026-11-16T13:14:26+07:00"
+      "last_activity_ts": "2026-11-16T13:16:21+07:00"
     }
   ]
 }
