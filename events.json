@@ -1,29 +1,5 @@
 [
   {
-    "id": "evt-c4f8a43e1b708a667376",
-    "ts": "2026-11-16T06:05:55+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 177,
-      "http_ok": 177,
-      "total_floor_bnb": 2.41672953,
-      "total_volume_bnb": 29.46760094,
-      "source_file": "nft-floors-2026-11-16-0557.jsonl"
-    }
-  },
-  {
-    "id": "evt-c827e8fb50dce4234c4e",
-    "ts": "2026-11-16T06:09:37+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8758.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-07ab978aef6a96ebc5c3",
     "ts": "2026-11-16T06:09:44+07:00",
     "agent": "BURU",
@@ -1177,6 +1153,26 @@
       },
       "source_log": "check-2026-11-16-0811.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-8cb881daad83e54b1c74",
+    "ts": "2026-11-16T08:18:35+07:00",
+    "agent": "KODE",
+    "type": "makefun_submission",
+    "data": {
+      "slug": "best-game-01"
+    }
+  },
+  {
+    "id": "evt-151f74590a38640dfee3",
+    "ts": "2026-11-16T08:19:58+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8757.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
