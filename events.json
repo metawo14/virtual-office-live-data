@@ -1,15 +1,5 @@
 [
   {
-    "id": "evt-268fb32bdd863964bc9a",
-    "ts": "2026-11-16T19:16:47+07:00",
-    "agent": "TUGAS",
-    "type": "dialectica",
-    "data": {
-      "detail": "2026-11-16T12:16:42Z job=8c289127-412f-4654-b740-ae947e35ed2c chars=13552 seconds=140 status=answered",
-      "job": "8c289127-412f-4654-b740-ae947e35ed2c"
-    }
-  },
-  {
     "id": "evt-862706550a2bf994aeff",
     "ts": "2026-11-16T19:19:48+07:00",
     "agent": "BURU",
@@ -1303,6 +1293,21 @@
       "total_floor_bnb": 2.41658959,
       "total_volume_bnb": 29.46683694,
       "source_file": "nft-floors-2026-11-16-2157.jsonl"
+    }
+  },
+  {
+    "id": "evt-550e164b69d085acb4fc",
+    "ts": "2026-11-16T22:33:08+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27186,
+        "bangpateng": 93613,
+        "happycuan": 29489
+      },
+      "source_log": "check-2026-11-16-2226.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
