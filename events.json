@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-0f50a08c71b39ea87656",
-    "ts": "2026-11-16T15:03:05+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.01101862,
-      "total_volume_bnb": 0.003233,
-      "source_file": "nft-floors-2026-11-16-1457-s61.jsonl"
-    }
-  },
-  {
-    "id": "evt-af6a327a297c5ced9cb0",
-    "ts": "2026-11-16T15:04:44+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8206.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-bf663136f6a04659ffd5",
-    "ts": "2026-11-16T15:04:45+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.00674555,
-      "total_volume_bnb": 0.175056,
-      "source_file": "nft-floors-2026-11-16-1457-s91.jsonl"
-    }
-  },
-  {
     "id": "evt-a0c4bbf84d8b683fe33c",
     "ts": "2026-11-16T15:04:48+07:00",
     "agent": "BURU",
@@ -1303,6 +1266,45 @@
       "total_floor_bnb": 0.00573447,
       "total_volume_bnb": 28.39533894,
       "source_file": "nft-floors-2026-11-16-1757-s151.jsonl"
+    }
+  },
+  {
+    "id": "evt-02226d659bfa767f2f20",
+    "ts": "2026-11-16T18:08:20+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41651724,
+      "total_volume_bnb": 29.46760094,
+      "source_file": "nft-floors-2026-11-16-1757.jsonl"
+    }
+  },
+  {
+    "id": "evt-17da151b687f244fa618",
+    "ts": "2026-11-16T18:09:13+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8206.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-53dacb50096158458e1d",
+    "ts": "2026-11-16T18:09:47+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27181,
+        "bangpateng": 93604,
+        "happycuan": 29489
+      },
+      "source_log": "check-2026-11-16-1806.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
