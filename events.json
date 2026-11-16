@@ -1,20 +1,5 @@
 [
   {
-    "id": "evt-5689a1143597f6cc7814",
-    "ts": "2026-11-16T08:55:02+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27169,
-        "bangpateng": 93597,
-        "happycuan": 29487
-      },
-      "source_log": "check-2026-11-16-0851.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-4c10e56f796c4153f3e9",
     "ts": "2026-11-16T08:59:55+07:00",
     "agent": "BURU",
@@ -1308,6 +1293,21 @@
         "happycuan": 29487
       },
       "source_log": "check-2026-11-16-1206.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-c8369d30e2526f8534a7",
+    "ts": "2026-11-16T12:15:16+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27172,
+        "bangpateng": 93598,
+        "happycuan": 29487
+      },
+      "source_log": "check-2026-11-16-1211.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
