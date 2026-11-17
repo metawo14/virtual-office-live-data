@@ -1,15 +1,5 @@
 [
   {
-    "id": "evt-92dc4347367329ab99aa",
-    "ts": "2026-11-17T18:48:31+07:00",
-    "agent": "TUGAS",
-    "type": "dialectica",
-    "data": {
-      "detail": "2026-11-17 11:48:31 UTC stale-working-cleanup job=8a83ee1c-e279-4d15-9521-f9cf2b8c1c60 age_min=16 (wrapper gave up; file removed, no answer written)",
-      "job": "8a83ee1c-e279-4d15-9521-f9cf2b8c1c60"
-    }
-  },
-  {
     "id": "evt-07b82f02c98a60524797",
     "ts": "2026-11-17T18:49:20+07:00",
     "agent": "BURU",
@@ -1287,6 +1277,17 @@
       },
       "source_log": "check-2026-11-17-2136.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-9f139b88c26988c4b5b7",
+    "ts": "2026-11-17T21:44:44+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8381.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
