@@ -1,29 +1,5 @@
 [
   {
-    "id": "evt-2ef071d82e11b091fd11",
-    "ts": "2026-11-17T15:04:43+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8537.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-1809ec206ae332efd75f",
-    "ts": "2026-11-17T15:05:52+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 2.38524632,
-      "total_volume_bnb": 0.000638,
-      "source_file": "nft-floors-2026-11-17-1457-s5.jsonl"
-    }
-  },
-  {
     "id": "evt-f51e985ece16a4df687a",
     "ts": "2026-11-17T15:07:20+07:00",
     "agent": "PASAR",
@@ -1303,6 +1279,29 @@
       "total_floor_bnb": 0.00661589,
       "total_volume_bnb": 0.011886,
       "source_file": "nft-floors-2026-11-17-1827-s4.jsonl"
+    }
+  },
+  {
+    "id": "evt-759a7835b03d50eb1523",
+    "ts": "2026-11-17T18:30:53+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-17T11:30:53Z job=4b1ca28a-f408-4130-aeca-599703a04845 chars=6483 seconds=154 status=answered",
+      "job": "4b1ca28a-f408-4130-aeca-599703a04845"
+    }
+  },
+  {
+    "id": "evt-cd598ba246b6c151d71d",
+    "ts": "2026-11-17T18:31:29+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41658959,
+      "total_volume_bnb": 29.46835094,
+      "source_file": "nft-floors-2026-11-17-1827.jsonl"
     }
   }
 ]
