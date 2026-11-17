@@ -1,18 +1,5 @@
 [
   {
-    "id": "evt-8d7e53a3b819b40271b8",
-    "ts": "2026-11-17T07:00:24+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 6,
-      "http_ok": 6,
-      "total_floor_bnb": 0.00034845,
-      "total_volume_bnb": 0.000247,
-      "source_file": "nft-floors-2026-11-17-0657-s2.jsonl"
-    }
-  },
-  {
     "id": "evt-f2b3773a28ea5160b71e",
     "ts": "2026-11-17T07:02:15+07:00",
     "agent": "BURU",
@@ -1109,6 +1096,15 @@
     "type": "bagent",
     "data": {
       "detail": "[2026-11-17 08:35:33 WIB] percobaan 106/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
+    }
+  },
+  {
+    "id": "evt-f5a47a8af8ab84ff95fa",
+    "ts": "2026-11-17T08:37:34+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-17 08:37:34 WIB] percobaan 108/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
     }
   }
 ]
