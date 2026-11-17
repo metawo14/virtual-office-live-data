@@ -1,44 +1,5 @@
 [
   {
-    "id": "evt-de3b2988d36663b306af",
-    "ts": "2026-11-17T12:39:50+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 177,
-      "http_ok": 177,
-      "total_floor_bnb": 2.41658959,
-      "total_volume_bnb": 29.46785094,
-      "source_file": "nft-floors-2026-11-17-1227.jsonl"
-    }
-  },
-  {
-    "id": "evt-b375193c19fa6db51733",
-    "ts": "2026-11-17T12:44:12+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8619.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-554d411fdd77377e2947",
-    "ts": "2026-11-17T12:44:49+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27195,
-        "bangpateng": 93618,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-17-1241.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-a4370a1d8f8f6d1d404e",
     "ts": "2026-11-17T12:49:41+07:00",
     "agent": "BURU",
@@ -1297,6 +1258,41 @@
       "total_floor_bnb": 2.41658959,
       "total_volume_bnb": 29.46810094,
       "source_file": "nft-floors-2026-11-17-1527.jsonl"
+    }
+  },
+  {
+    "id": "evt-b403c016742cfd20d260",
+    "ts": "2026-11-17T15:38:31+07:00",
+    "agent": "KODE",
+    "type": "makefun_submission",
+    "data": {
+      "slug": "gta6-twitch-ccu-forecast-01"
+    }
+  },
+  {
+    "id": "evt-f6b3857f4580df061d43",
+    "ts": "2026-11-17T15:39:35+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27196,
+        "bangpateng": 93621,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-17-1536.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-9d6e91e80183981f7370",
+    "ts": "2026-11-17T15:40:05+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8120.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
