@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:26:23+07:00",
+  "updated_at": "2026-11-17T22:28:33+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -22,7 +22,7 @@
       "balance": 0.0012423,
       "balance_unit": "BNB",
       "balance_note": "saldo BNB wallet Agentic (dipakai untuk gas mint/claim)",
-      "volume": 286,
+      "volume": 285,
       "volume_unit": "cek mint-watch / 24 jam",
       "volume_note": "jumlah run cek mint gratis dalam 24 jam terakhir (file log)",
       "remaining_target": 7,
@@ -35,24 +35,24 @@
     {
       "id": "PASAR",
       "role": "pantau jual NFT + auto-sell",
-      "status": "idle",
-      "balance": 2.41658763,
+      "status": "bekerja",
+      "balance": 3.672e-05,
       "balance_unit": "BNB",
-      "balance_note": "jumlah floor 177 koleksi (bukan saldo wallet)",
-      "volume": 29.46835094,
+      "balance_note": "jumlah floor 2 koleksi (bukan saldo wallet)",
+      "volume": 0.0,
       "volume_unit": "BNB",
-      "volume_note": "total volume 177 koleksi dari sweep floor terakhir (nft-floors-2026-11-17-2157.jsonl)",
+      "volume_note": "total volume 2 koleksi dari sweep floor terakhir (nft-floors-2026-11-17-2227-s5.jsonl)",
       "remaining_target": null,
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": null,
-      "last_event_ts": "2026-11-17T22:01:26+07:00",
-      "last_activity_ts": "2026-11-17T22:01:26+07:00"
+      "last_event_ts": "2026-11-17T22:28:32+07:00",
+      "last_activity_ts": "2026-11-17T22:28:33+07:00"
     },
     {
       "id": "TUGAS",
       "role": "Dialectica + Vapi + loker",
-      "status": "idle",
+      "status": "bekerja",
       "balance": 201,
       "balance_unit": "$TRUED",
       "balance_note": "saldo Dialectica terakhir per catatan harian",
@@ -64,7 +64,7 @@
       "remaining_target_note": null,
       "script_version": null,
       "last_event_ts": "2026-11-17T21:56:34+07:00",
-      "last_activity_ts": "2026-11-17T22:05:38+07:00"
+      "last_activity_ts": "2026-11-17T22:27:24+07:00"
     },
     {
       "id": "KODE",
@@ -97,8 +97,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": "1.0",
-      "last_event_ts": "2026-11-17T22:24:54+07:00",
-      "last_activity_ts": "2026-11-17T22:26:23+07:00"
+      "last_event_ts": "2026-11-17T22:28:32+07:00",
+      "last_activity_ts": "2026-11-17T22:28:33+07:00"
     }
   ]
 }
