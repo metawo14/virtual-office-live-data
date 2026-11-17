@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-d423a74950e74335a6cb",
-    "ts": "2026-11-18T00:34:29+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 6823.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-a669e1a11fcffbef5baf",
     "ts": "2026-11-18T00:35:00+07:00",
     "agent": "BURU",
@@ -1303,6 +1292,17 @@
   {
     "id": "evt-f6e0e05798bf86568d49",
     "ts": "2026-11-18T03:33:12+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7848.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-1114506d4e0898cd1578",
+    "ts": "2026-11-18T03:35:29+07:00",
     "agent": "BURU",
     "type": "iao_check",
     "data": {
