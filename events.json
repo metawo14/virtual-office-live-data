@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-a6a9c009bdf363b150fd",
-    "ts": "2026-11-18T23:39:37+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8357.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-e1ad1e878bc440b3de37",
-    "ts": "2026-11-18T23:44:41+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8357.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-136ed9297518c6208c5f",
-    "ts": "2026-11-18T23:53:30+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27221,
-        "bangpateng": 93643,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-18-2346.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-2e87ced9aec3cc643236",
     "ts": "2026-11-18T23:54:36+07:00",
     "agent": "BURU",
@@ -1319,6 +1282,45 @@
       },
       "source_log": "check-2026-11-19-0321.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-a2346b2aaaaae645eb63",
+    "ts": "2026-11-19T03:29:39+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27222,
+        "bangpateng": 93649,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-0326.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-323f0a9d8968a042eb57",
+    "ts": "2026-11-19T03:29:49+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8357.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-1e84b53893c83048cfee",
+    "ts": "2026-11-19T03:30:37+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 15,
+      "http_ok": 15,
+      "total_floor_bnb": 0.00465504,
+      "total_volume_bnb": 0.004303,
+      "source_file": "nft-floors-2026-11-19-0327-s2.jsonl"
     }
   }
 ]
