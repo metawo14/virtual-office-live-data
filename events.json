@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-a7a8672b31695ae2153e",
-    "ts": "2026-11-18T19:34:23+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8513.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-f954bbfe0f3694a22912",
-    "ts": "2026-11-18T19:39:31+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8506.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-17aa78e187b50c3df551",
-    "ts": "2026-11-18T19:39:48+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-1926-makefun.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-ea68e2ec7a66461f9589",
     "ts": "2026-11-18T19:44:03+07:00",
     "agent": "BURU",
@@ -1255,6 +1222,45 @@
       "total_floor_bnb": 0.0001183,
       "total_volume_bnb": 0.001441,
       "source_file": "nft-floors-2026-11-18-2227-s4.jsonl"
+    }
+  },
+  {
+    "id": "evt-4e0a1b16d5c5c9ba799a",
+    "ts": "2026-11-18T22:34:00+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27219,
+        "bangpateng": 93642,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-18-2231.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-e31f5c276dc991939c42",
+    "ts": "2026-11-18T22:34:45+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8357.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-0c6f8205fe5544fea4d4",
+    "ts": "2026-11-18T22:34:50+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 2.38524532,
+      "total_volume_bnb": 0.000638,
+      "source_file": "nft-floors-2026-11-18-2227-s5.jsonl"
     }
   }
 ]
