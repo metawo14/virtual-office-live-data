@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-c0240927ba722d96fee3",
-    "ts": "2026-11-18T16:04:46+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-18-1601-makefun.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-4747470575bef94a02a1",
-    "ts": "2026-11-18T16:04:56+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7770.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-4df150b47c87e52ce1c8",
-    "ts": "2026-11-18T16:09:17+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-18-1606-makefun.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-c8e92caef3cfdaf61e74",
     "ts": "2026-11-18T16:09:57+07:00",
     "agent": "BURU",
@@ -1207,6 +1174,41 @@
       "total_floor_bnb": 0.00155519,
       "total_volume_bnb": 11.35553792,
       "source_file": "nft-floors-2026-11-18-1927-s6.jsonl"
+    }
+  },
+  {
+    "id": "evt-5d7df68bbdf70ff5166f",
+    "ts": "2026-11-18T19:29:25+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8506.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-1eda1e9c39f4e797dd5d",
+    "ts": "2026-11-18T19:29:38+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-1926-makefun.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-6050832a5749f1e6ea7c",
+    "ts": "2026-11-18T19:29:56+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00673909,
+      "total_volume_bnb": 0.175056,
+      "source_file": "nft-floors-2026-11-18-1927-s4.jsonl"
     }
   }
 ]
