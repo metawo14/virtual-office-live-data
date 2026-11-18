@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-6255dfde59d2cf0bc179",
-    "ts": "2026-11-18T20:27:02+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2021-makefun.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-e1f9f23b8bf0cb58c5b7",
     "ts": "2026-11-18T20:28:16+07:00",
     "agent": "PASAR",
@@ -1287,6 +1276,17 @@
       },
       "source_log": "check-2026-11-18-2321.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-e5049380e49382caecdf",
+    "ts": "2026-11-18T23:24:42+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8357.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
