@@ -1,46 +1,5 @@
 [
   {
-    "id": "evt-dbf83c20332f86fa6287",
-    "ts": "2026-11-18T03:51:49+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27207,
-        "bangpateng": 93631,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-18-0346.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-419d88082d3a70613367",
-    "ts": "2026-11-18T03:54:29+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7848.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-e30ad9a40174b075e53e",
-    "ts": "2026-11-18T03:55:51+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27207,
-        "bangpateng": 93631,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-18-0351.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-80b05d1ad0c38b4c619a",
     "ts": "2026-11-18T04:00:02+07:00",
     "agent": "BURU",
@@ -1301,6 +1260,43 @@
       "total_floor_bnb": 0.00011947,
       "total_volume_bnb": 11.35553792,
       "source_file": "nft-floors-2026-11-18-0657-s6.jsonl"
+    }
+  },
+  {
+    "id": "evt-1cb342e3f3ab01853e60",
+    "ts": "2026-11-18T07:06:44+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27207,
+        "bangpateng": 93631,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-18-0701.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-d2d1866e5c2bc426c5ba",
+    "ts": "2026-11-18T07:07:29+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41658763,
+      "total_volume_bnb": 29.46835094,
+      "source_file": "nft-floors-2026-11-18-0657.jsonl"
+    }
+  },
+  {
+    "id": "evt-26454ea4edebb44a24ff",
+    "ts": "2026-11-18T07:08:04+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-18 07:08:04 WIB] percobaan 37/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
     }
   }
 ]
