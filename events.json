@@ -1,33 +1,5 @@
 [
   {
-    "id": "evt-4753cf665535dc1e259f",
-    "ts": "2026-11-18T06:00:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.00156202,
-      "total_volume_bnb": 0.889032,
-      "source_file": "nft-floors-2026-11-18-0557-s1.jsonl"
-    }
-  },
-  {
-    "id": "evt-6e6209189f8fa75b9589",
-    "ts": "2026-11-18T06:00:27+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27207,
-        "bangpateng": 93631,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-18-0556.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-0f69afd744683ff5e2b5",
     "ts": "2026-11-18T06:02:07+07:00",
     "agent": "PASAR",
@@ -1177,6 +1149,28 @@
       "total_floor_bnb": 0.001782,
       "total_volume_bnb": 0.0,
       "source_file": "nft-floors-2026-11-18-0757-s3.jsonl"
+    }
+  },
+  {
+    "id": "evt-f18d09cb05625486ed43",
+    "ts": "2026-11-18T08:03:54+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-18 08:03:54 WIB] percobaan 92/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
+    }
+  },
+  {
+    "id": "evt-c3b8173c48b6ecd1c1cb",
+    "ts": "2026-11-18T08:04:21+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 11,
+      "http_ok": 11,
+      "total_floor_bnb": 0.0007132,
+      "total_volume_bnb": 0.009352,
+      "source_file": "nft-floors-2026-11-18-0757-s4.jsonl"
     }
   }
 ]
