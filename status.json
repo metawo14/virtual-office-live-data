@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18T22:36:21+07:00",
+  "updated_at": "2026-11-18T22:38:27+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
-    "bnb": 0.0010785,
+    "bnb": null,
     "u": 0.0,
     "iao": 11250.0,
     "bagent": 0.0
@@ -12,17 +12,17 @@
     "total_cuan_u": 0.0,
     "total_cuan_unit": "U",
     "total_cuan_note": "Saldo U on-chain wallet Agentic. Sumber cuan tercatat: penjualan Agent Genesis #1316 (2,231 U bersih) + klaim $U rewards 13 Nov 2026 (0,0015274 U). Nilai USD tidak dihitung (U belum ada harga pasar tepercaya).",
-    "bnb_balance": 0.0010785
+    "bnb_balance": null
   },
   "agents": [
     {
       "id": "BURU",
       "role": "mint gratis + claim",
       "status": "bekerja",
-      "balance": 0.0010785,
+      "balance": null,
       "balance_unit": "BNB",
       "balance_note": "saldo BNB wallet Agentic (dipakai untuk gas mint/claim)",
-      "volume": 362,
+      "volume": 361,
       "volume_unit": "cek mint-watch / 24 jam",
       "volume_note": "jumlah run cek mint gratis dalam 24 jam terakhir (file log)",
       "remaining_target": 7,
@@ -87,7 +87,7 @@
       "id": "metawo",
       "role": "orkestrator",
       "status": "bekerja",
-      "balance": 0.0010785,
+      "balance": null,
       "balance_unit": "BNB",
       "balance_note": "saldo BNB wallet Agentic",
       "volume": null,
@@ -98,7 +98,7 @@
       "remaining_target_note": null,
       "script_version": "1.0",
       "last_event_ts": "2026-11-18T22:36:09+07:00",
-      "last_activity_ts": "2026-11-18T22:36:21+07:00"
+      "last_activity_ts": "2026-11-18T22:38:27+07:00"
     }
   ]
 }
