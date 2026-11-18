@@ -1,50 +1,5 @@
 [
   {
-    "id": "evt-d8453b6e9f93a686a964",
-    "ts": "2026-11-19T02:18:36+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27222,
-        "bangpateng": 93648,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-0211.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-ad865af861662fb65afa",
-    "ts": "2026-11-19T02:22:56+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27222,
-        "bangpateng": 93648,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-0216.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-949adb2646cd1fdf63a6",
-    "ts": "2026-11-19T02:27:50+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27222,
-        "bangpateng": 93648,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-0221.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-3d6843b312cad551bd2e",
     "ts": "2026-11-19T02:29:36+07:00",
     "agent": "BURU",
@@ -1305,6 +1260,45 @@
       "mcap_usd": 8526.0,
       "trigger_usd": 1000000,
       "reached": false
+    }
+  },
+  {
+    "id": "evt-5577331d60b24114a301",
+    "ts": "2026-11-19T05:29:10+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27222,
+        "bangpateng": 93650,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-0526.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-da0532960828b6acab5a",
+    "ts": "2026-11-19T05:29:41+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8526.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-a7cbc6ed526452f9b02a",
+    "ts": "2026-11-19T05:30:27+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 4,
+      "http_ok": 4,
+      "total_floor_bnb": 0.00022209,
+      "total_volume_bnb": 0.000247,
+      "source_file": "nft-floors-2026-11-19-0527-s2.jsonl"
     }
   }
 ]
