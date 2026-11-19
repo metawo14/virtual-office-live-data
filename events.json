@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-3bf02c0627bae45c9a9c",
-    "ts": "2026-11-19T08:10:01+07:00",
-    "agent": "BURU",
-    "type": "bagent",
-    "data": {
-      "detail": "[2026-11-19 08:10:01 WIB] percobaan 97/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
-    }
-  },
-  {
-    "id": "evt-e39e2220f19213f4e94f",
-    "ts": "2026-11-19T08:11:25+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 177,
-      "http_ok": 177,
-      "total_floor_bnb": 2.41643953,
-      "total_volume_bnb": 29.46860094,
-      "source_file": "nft-floors-2026-11-19-0757.jsonl"
-    }
-  },
-  {
-    "id": "evt-d1bb84c46d2c939ccdf5",
-    "ts": "2026-11-19T08:11:51+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27222,
-        "bangpateng": 93655,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-0806.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-bfae0cc1d135d4982d80",
     "ts": "2026-11-19T08:12:03+07:00",
     "agent": "BURU",
@@ -1249,6 +1212,45 @@
       "total_floor_bnb": 0.00626764,
       "total_volume_bnb": 0.004303,
       "source_file": "nft-floors-2026-11-19-1057-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-7b2e9484ecc59b7bbb29",
+    "ts": "2026-11-19T11:04:29+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8352.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-c5c5a81e3c1e644e7889",
+    "ts": "2026-11-19T11:04:50+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.01101272,
+      "total_volume_bnb": 0.003233,
+      "source_file": "nft-floors-2026-11-19-1057-s3.jsonl"
+    }
+  },
+  {
+    "id": "evt-046e713ab420d398e9e8",
+    "ts": "2026-11-19T11:05:03+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27224,
+        "bangpateng": 93655,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-1101.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
