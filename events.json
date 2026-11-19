@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-e7b5fc3ac7df24efcced",
-    "ts": "2026-11-19T04:40:50+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8207.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-a921d0f862a24a2f2d3a",
     "ts": "2026-11-19T04:44:41+07:00",
     "agent": "BURU",
@@ -1241,6 +1230,15 @@
     "type": "bagent",
     "data": {
       "detail": "[2026-11-19 07:26:21 WIB] percobaan 54/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
+    }
+  },
+  {
+    "id": "evt-cd18cf4bd10b61646113",
+    "ts": "2026-11-19T07:27:22+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-19 07:27:22 WIB] percobaan 55/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
     }
   }
 ]
