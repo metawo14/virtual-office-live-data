@@ -1,46 +1,5 @@
 [
   {
-    "id": "evt-90f05e28fba67951f178",
-    "ts": "2026-11-19T04:30:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 12,
-      "http_ok": 12,
-      "total_floor_bnb": 0.00279904,
-      "total_volume_bnb": 0.004303,
-      "source_file": "nft-floors-2026-11-19-0427-s2.jsonl"
-    }
-  },
-  {
-    "id": "evt-b19adf855c0dbca0b92d",
-    "ts": "2026-11-19T04:31:04+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27222,
-        "bangpateng": 93650,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-0426.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-006bd037925261633c81",
-    "ts": "2026-11-19T04:32:19+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 24,
-      "http_ok": 24,
-      "total_floor_bnb": 0.01061462,
-      "total_volume_bnb": 0.003233,
-      "source_file": "nft-floors-2026-11-19-0427-s3.jsonl"
-    }
-  },
-  {
     "id": "evt-928771899ad9647c6fcd",
     "ts": "2026-11-19T04:34:15+07:00",
     "agent": "PASAR",
@@ -1263,6 +1222,41 @@
     "type": "bagent",
     "data": {
       "detail": "[2026-11-19 07:18:14 WIB] percobaan 46/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
+    }
+  },
+  {
+    "id": "evt-b89ca726b475cb36350c",
+    "ts": "2026-11-19T07:19:17+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27222,
+        "bangpateng": 93654,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-0716.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-d6aafb58da03b5e7b2fb",
+    "ts": "2026-11-19T07:20:04+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8526.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-f7e2a62741901d3600f4",
+    "ts": "2026-11-19T07:20:16+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-19 07:20:16 WIB] percobaan 48/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
     }
   }
 ]
