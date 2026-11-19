@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-949c296512c5386cfaba",
-    "ts": "2026-11-19T16:44:22+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8255.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-c1bdc207084c1951cc48",
-    "ts": "2026-11-19T16:49:04+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27230,
-        "bangpateng": 93657,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-1646.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-408b00eb6804993df1d6",
-    "ts": "2026-11-19T16:49:15+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8255.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-544cd0193f34ab3871ac",
     "ts": "2026-11-19T16:54:16+07:00",
     "agent": "BURU",
@@ -1281,6 +1244,42 @@
       "total_floor_bnb": 2.41653731,
       "total_volume_bnb": 29.46860094,
       "source_file": "nft-floors-2026-11-19-1927.jsonl"
+    }
+  },
+  {
+    "id": "evt-2dbff534bb85bbcc77fe",
+    "ts": "2026-11-19T19:38:50+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27230,
+        "bangpateng": 93657,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-1936.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-1cd4afa28c1ab486f4c7",
+    "ts": "2026-11-19T19:39:27+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8135.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-ca8e3c17ccb3741a5c7e",
+    "ts": "2026-11-19T19:39:52+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-19T12:39:52Z 6da420e9-96d5-49a7-a8e3-ebfaa8299185 chars=10525 seconds=92 kind=ISR answered",
+      "job": "6da420e9-96d5-49a7-a8e3-ebfaa8299185"
     }
   }
 ]
