@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-a921d0f862a24a2f2d3a",
-    "ts": "2026-11-19T04:44:41+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8207.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-5cff259a3ffd0fce07c4",
-    "ts": "2026-11-19T04:46:30+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27222,
-        "bangpateng": 93650,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-0441.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-ac9c5470696f74fc40d2",
-    "ts": "2026-11-19T04:50:07+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7945.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-878deea61a2647dc6953",
     "ts": "2026-11-19T04:51:06+07:00",
     "agent": "BURU",
@@ -1239,6 +1202,43 @@
     "type": "bagent",
     "data": {
       "detail": "[2026-11-19 07:27:22 WIB] percobaan 55/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
+    }
+  },
+  {
+    "id": "evt-afc38ed8cb2adb27b710",
+    "ts": "2026-11-19T07:29:32+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27222,
+        "bangpateng": 93654,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-0726.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-e15905b59255c05b4eb1",
+    "ts": "2026-11-19T07:30:25+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 19,
+      "http_ok": 19,
+      "total_floor_bnb": 0.00541674,
+      "total_volume_bnb": 0.004303,
+      "source_file": "nft-floors-2026-11-19-0727-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-675fb8b12a8ac9205af5",
+    "ts": "2026-11-19T07:30:25+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-19 07:30:25 WIB] percobaan 58/120: sim mine() revert ({\"code\": 3, \"message\": \"execution reverted: 0xfe8e2643\", \"data\": \"0xfe8e2643\"}) — slot belum buka/habis"
     }
   }
 ]
