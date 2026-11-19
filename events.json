@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-9f01600b63bd6839b752",
-    "ts": "2026-11-20T01:34:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 25,
-      "http_ok": 25,
-      "total_floor_bnb": 0.0046212,
-      "total_volume_bnb": 0.0,
-      "source_file": "nft-floors-2026-11-20-0127-s5.jsonl"
-    }
-  },
-  {
-    "id": "evt-e0580f1f1c026caf8831",
-    "ts": "2026-11-20T01:34:22+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8445.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-375b64f647781e7c2eef",
-    "ts": "2026-11-20T01:35:55+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 177,
-      "http_ok": 177,
-      "total_floor_bnb": 2.41653731,
-      "total_volume_bnb": 29.47018694,
-      "source_file": "nft-floors-2026-11-20-0127.jsonl"
-    }
-  },
-  {
     "id": "evt-142bd41e215be9c0a220",
     "ts": "2026-11-20T01:39:09+07:00",
     "agent": "BURU",
@@ -1301,6 +1264,45 @@
       "total_floor_bnb": 2.38519212,
       "total_volume_bnb": 0.000638,
       "source_file": "nft-floors-2026-11-20-0427-s5.jsonl"
+    }
+  },
+  {
+    "id": "evt-d5a82c0407d2fa0fc72b",
+    "ts": "2026-11-20T04:38:59+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27233,
+        "bangpateng": 93668,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-20-0436.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-ecb2d43de340b414e614",
+    "ts": "2026-11-20T04:39:00+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41653731,
+      "total_volume_bnb": 29.46942294,
+      "source_file": "nft-floors-2026-11-20-0427.jsonl"
+    }
+  },
+  {
+    "id": "evt-a9dd19676c498e887620",
+    "ts": "2026-11-20T04:39:35+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7991.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
