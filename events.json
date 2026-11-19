@@ -1,44 +1,5 @@
 [
   {
-    "id": "evt-5595bc977ad9432c04b2",
-    "ts": "2026-11-19T16:59:30+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8255.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-14844a4b48490211c85f",
-    "ts": "2026-11-19T17:00:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 4,
-      "http_ok": 4,
-      "total_floor_bnb": 0.00022209,
-      "total_volume_bnb": 0.000247,
-      "source_file": "nft-floors-2026-11-19-1657-s2.jsonl"
-    }
-  },
-  {
-    "id": "evt-35b5f854042e29422c02",
-    "ts": "2026-11-19T17:00:39+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27230,
-        "bangpateng": 93657,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-19-1656.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-96beb1694ae4d148f341",
     "ts": "2026-11-19T17:02:19+07:00",
     "agent": "PASAR",
@@ -1280,6 +1241,45 @@
       "mcap_usd": 8163.0,
       "trigger_usd": 1000000,
       "reached": false
+    }
+  },
+  {
+    "id": "evt-cc40403589647a2a1ef1",
+    "ts": "2026-11-19T20:10:24+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41653731,
+      "total_volume_bnb": 29.46876694,
+      "source_file": "nft-floors-2026-11-19-1957.jsonl"
+    }
+  },
+  {
+    "id": "evt-4874177657f0c5c468e2",
+    "ts": "2026-11-19T20:14:26+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8163.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-a56500a4306c0abeba4e",
+    "ts": "2026-11-19T20:14:30+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27230,
+        "bangpateng": 93657,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-19-2011.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
