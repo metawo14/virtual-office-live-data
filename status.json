@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T19:40:16+07:00",
+  "updated_at": "2026-11-20T19:42:16+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -63,8 +63,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": null,
-      "last_event_ts": "2026-11-20T19:35:40+07:00",
-      "last_activity_ts": "2026-11-20T19:40:12+07:00"
+      "last_event_ts": "2026-11-20T19:40:37+07:00",
+      "last_activity_ts": "2026-11-20T19:42:10+07:00"
     },
     {
       "id": "KODE",
@@ -97,8 +97,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": "1.0",
-      "last_event_ts": "2026-11-20T19:39:35+07:00",
-      "last_activity_ts": "2026-11-20T19:40:16+07:00"
+      "last_event_ts": "2026-11-20T19:40:37+07:00",
+      "last_activity_ts": "2026-11-20T19:42:16+07:00"
     }
   ]
 }
