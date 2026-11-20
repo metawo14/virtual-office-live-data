@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:58:23+07:00",
+  "updated_at": "2026-11-20T21:00:21+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -29,25 +29,25 @@
       "remaining_target_unit": "klaim BAGENT",
       "remaining_target_note": "maks 7/wallet, saldo BAGENT on-chain 0 -> 0 terpakai",
       "script_version": null,
-      "last_event_ts": "2026-11-20T20:54:27+07:00",
-      "last_activity_ts": "2026-11-20T20:54:27+07:00"
+      "last_event_ts": "2026-11-20T20:59:44+07:00",
+      "last_activity_ts": "2026-11-20T20:59:44+07:00"
     },
     {
       "id": "PASAR",
       "role": "pantau jual NFT + auto-sell",
-      "status": "idle",
-      "balance": 2.41645764,
+      "status": "bekerja",
+      "balance": 0.0002098,
       "balance_unit": "BNB",
-      "balance_note": "jumlah floor 177 koleksi (bukan saldo wallet)",
-      "volume": 29.47018694,
+      "balance_note": "jumlah floor 1 koleksi (bukan saldo wallet)",
+      "volume": 0.0,
       "volume_unit": "BNB",
-      "volume_note": "total volume 177 koleksi dari sweep floor terakhir (nft-floors-2026-11-20-2027.jsonl)",
+      "volume_note": "total volume 1 koleksi dari sweep floor terakhir (nft-floors-2026-11-20-2057-s2.jsonl)",
       "remaining_target": null,
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": null,
-      "last_event_ts": "2026-11-20T20:38:09+07:00",
-      "last_activity_ts": "2026-11-20T20:38:09+07:00"
+      "last_event_ts": "2026-11-20T21:00:19+07:00",
+      "last_activity_ts": "2026-11-20T21:00:22+07:00"
     },
     {
       "id": "TUGAS",
@@ -64,7 +64,7 @@
       "remaining_target_note": null,
       "script_version": null,
       "last_event_ts": "2026-11-20T19:40:37+07:00",
-      "last_activity_ts": "2026-11-20T20:58:05+07:00"
+      "last_activity_ts": "2026-11-20T20:59:07+07:00"
     },
     {
       "id": "KODE",
@@ -97,8 +97,8 @@
       "remaining_target_unit": null,
       "remaining_target_note": null,
       "script_version": "1.0",
-      "last_event_ts": "2026-11-20T20:54:27+07:00",
-      "last_activity_ts": "2026-11-20T20:58:23+07:00"
+      "last_event_ts": "2026-11-20T21:00:19+07:00",
+      "last_activity_ts": "2026-11-20T21:00:21+07:00"
     }
   ]
 }
