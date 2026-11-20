@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-aa559bbe7df10ac8ebc6",
-    "ts": "2026-11-20T09:40:21+07:00",
-    "agent": "TUGAS",
-    "type": "loker",
-    "data": {
-      "findings_total": 64
-    }
-  },
-  {
     "id": "evt-1bb78a55f8730fa7b36a",
     "ts": "2026-11-20T09:43:56+07:00",
     "agent": "BURU",
@@ -1135,6 +1126,17 @@
   {
     "id": "evt-eb83bb877450820123ed",
     "ts": "2026-11-20T12:14:21+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8185.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-d50aeda48326cee1ca7d",
+    "ts": "2026-11-20T12:24:19+07:00",
     "agent": "BURU",
     "type": "iao_check",
     "data": {
