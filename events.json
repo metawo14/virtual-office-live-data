@@ -1,40 +1,5 @@
 [
   {
-    "id": "evt-6654fcc9666ef3c2de89",
-    "ts": "2026-11-20T09:54:25+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7966.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-53a702b0aaf308d5a989",
-    "ts": "2026-11-20T09:58:10+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-20-0956.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-3bc6bac7b6b7f8e8070c",
-    "ts": "2026-11-20T09:58:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 2,
-      "http_ok": 2,
-      "total_floor_bnb": 0.0001077,
-      "total_volume_bnb": 9e-05,
-      "source_file": "nft-floors-2026-11-20-0957-s1.jsonl"
-    }
-  },
-  {
     "id": "evt-6e76836baa9c48100a08",
     "ts": "2026-11-20T09:59:46+07:00",
     "agent": "BURU",
@@ -1153,6 +1118,44 @@
       "total_floor_bnb": 9.97e-05,
       "total_volume_bnb": 0.0,
       "source_file": "nft-floors-2026-11-20-1227-s4.jsonl"
+    }
+  },
+  {
+    "id": "evt-1e663167b759f95bdcef",
+    "ts": "2026-11-20T12:32:42+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "bangpateng": 93672,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-20-1226.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-14a5ac99ae741d83d20d",
+    "ts": "2026-11-20T12:34:12+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 16,
+      "http_ok": 16,
+      "total_floor_bnb": 0.0043349,
+      "total_volume_bnb": 0.0,
+      "source_file": "nft-floors-2026-11-20-1227-s5.jsonl"
+    }
+  },
+  {
+    "id": "evt-b4332878ccd56664c9a8",
+    "ts": "2026-11-20T12:34:12+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8185.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
