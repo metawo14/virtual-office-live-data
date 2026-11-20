@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:22:18+07:00",
+  "updated_at": "2026-11-21T01:24:19+07:00",
   "generated_by": "sync-data.py v1.0 (read-only)",
   "wallet": "0xE43f552E2CF83645c37A40f784c4F5028cceb6Dc",
   "balances": {
@@ -22,7 +22,7 @@
       "balance": 0.0005129,
       "balance_unit": "BNB",
       "balance_note": "saldo BNB wallet Agentic (dipakai untuk gas mint/claim)",
-      "volume": 280,
+      "volume": 279,
       "volume_unit": "cek mint-watch / 24 jam",
       "volume_note": "jumlah run cek mint gratis dalam 24 jam terakhir (file log)",
       "remaining_target": 7,
@@ -30,7 +30,7 @@
       "remaining_target_note": "maks 7/wallet, saldo BAGENT on-chain 0 -> 0 terpakai",
       "script_version": null,
       "last_event_ts": "2026-11-21T01:21:02+07:00",
-      "last_activity_ts": "2026-11-21T01:21:02+07:00"
+      "last_activity_ts": "2026-11-21T01:24:11+07:00"
     },
     {
       "id": "PASAR",
@@ -64,7 +64,7 @@
       "remaining_target_note": null,
       "script_version": null,
       "last_event_ts": null,
-      "last_activity_ts": "2026-11-21T01:21:47+07:00"
+      "last_activity_ts": "2026-11-21T01:23:44+07:00"
     },
     {
       "id": "KODE",
@@ -98,7 +98,7 @@
       "remaining_target_note": null,
       "script_version": "1.0",
       "last_event_ts": "2026-11-21T01:21:02+07:00",
-      "last_activity_ts": "2026-11-21T01:22:18+07:00"
+      "last_activity_ts": "2026-11-21T01:24:19+07:00"
     }
   ]
 }
