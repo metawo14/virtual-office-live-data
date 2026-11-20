@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-bc307fc0192063822b9d",
-    "ts": "2026-11-20T15:29:23+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8021.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-2b2a99ad97b5ce24803b",
-    "ts": "2026-11-20T15:30:15+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 22,
-      "http_ok": 22,
-      "total_floor_bnb": 0.00595674,
-      "total_volume_bnb": 0.004303,
-      "source_file": "nft-floors-2026-11-20-1527-s2.jsonl"
-    }
-  },
-  {
-    "id": "evt-439971f6cc132eb76243",
-    "ts": "2026-11-20T15:32:18+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 11,
-      "http_ok": 11,
-      "total_floor_bnb": 0.0008452,
-      "total_volume_bnb": 0.009352,
-      "source_file": "nft-floors-2026-11-20-1527-s4.jsonl"
-    }
-  },
-  {
     "id": "evt-4fe9786164b27ecea78f",
     "ts": "2026-11-20T15:34:03+07:00",
     "agent": "BURU",
@@ -1308,6 +1271,42 @@
       "total_floor_bnb": 2.41645764,
       "total_volume_bnb": 29.47018694,
       "source_file": "nft-floors-2026-11-20-1827.jsonl"
+    }
+  },
+  {
+    "id": "evt-275a46578e16701f75eb",
+    "ts": "2026-11-20T18:38:58+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27242,
+        "bangpateng": 93673,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-20-1836.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-e840953adbbf9d10d696",
+    "ts": "2026-11-20T18:39:12+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8031.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-dc78341bc995b2714cbf",
+    "ts": "2026-11-20T18:39:43+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-20T11:45:xxZ job=50a78373-b44f-4c9f-8048-9be329d7a8eb chars=13091 secs=~420 status=ANSWERED kind=ISR",
+      "job": "50a78373-b44f-4c9f-8048-9be329d7a8eb"
     }
   }
 ]
