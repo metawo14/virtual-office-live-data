@@ -1,44 +1,5 @@
 [
   {
-    "id": "evt-232105404e96f82c2d5e",
-    "ts": "2026-11-21T12:53:39+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27263,
-        "bangpateng": 93684,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-21-1251.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-c4ab5d20b911eb296cfb",
-    "ts": "2026-11-21T12:54:53+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7385.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-810c59fe849b5df76f9c",
-    "ts": "2026-11-21T12:58:17+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 2,
-      "http_ok": 2,
-      "total_floor_bnb": 0.0001077,
-      "total_volume_bnb": 9e-05,
-      "source_file": "nft-floors-2026-11-21-1257-s1.jsonl"
-    }
-  },
-  {
     "id": "evt-47e4e8d8a4361839a917",
     "ts": "2026-11-21T12:59:08+07:00",
     "agent": "BURU",
@@ -1265,6 +1226,45 @@
       "total_floor_bnb": 0.00048115,
       "total_volume_bnb": 0.000902,
       "source_file": "nft-floors-2026-11-21-1557-s1.jsonl"
+    }
+  },
+  {
+    "id": "evt-7d3b476712200976cc12",
+    "ts": "2026-11-21T15:59:20+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27268,
+        "bangpateng": 93684,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-21-1556.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-f6ad300897e71e6ad32d",
+    "ts": "2026-11-21T15:59:21+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7385.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-085938547e1f50e5335b",
+    "ts": "2026-11-21T16:00:15+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 19,
+      "http_ok": 19,
+      "total_floor_bnb": 0.00530674,
+      "total_volume_bnb": 0.004303,
+      "source_file": "nft-floors-2026-11-21-1557-s2.jsonl"
     }
   }
 ]
