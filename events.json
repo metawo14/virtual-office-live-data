@@ -1,29 +1,5 @@
 [
   {
-    "id": "evt-9bf533d36e7311eaac31",
-    "ts": "2026-11-21T15:29:18+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7385.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-53eb259929fb9492a5dd",
-    "ts": "2026-11-21T15:30:21+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 26,
-      "http_ok": 26,
-      "total_floor_bnb": 0.00603354,
-      "total_volume_bnb": 0.004303,
-      "source_file": "nft-floors-2026-11-21-1527-s2.jsonl"
-    }
-  },
-  {
     "id": "evt-34913cf0845fb4b4ad39",
     "ts": "2026-11-21T15:32:16+07:00",
     "agent": "PASAR",
@@ -1311,6 +1287,27 @@
       },
       "source_log": "check-2026-11-21-1836.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-c392254d9ac3aa01b81a",
+    "ts": "2026-11-21T18:39:10+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7259.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-b72a75aa5a2d19744ecd",
+    "ts": "2026-11-21T18:39:31+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-20T11:45:xxZ job=50a78373-b44f-4c9f-8048-9be329d7a8eb chars=13091 secs=~420 status=ANSWERED kind=ISR",
+      "job": "50a78373-b44f-4c9f-8048-9be329d7a8eb"
     }
   }
 ]
