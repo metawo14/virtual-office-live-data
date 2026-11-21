@@ -1,42 +1,5 @@
 [
   {
-    "id": "evt-2551d2280e30473efa1e",
-    "ts": "2026-11-21T22:39:33+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7455.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-04550941acd977e140dc",
-    "ts": "2026-11-21T22:43:00+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27274,
-        "bangpateng": 93687,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-21-2241.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-2b0a39c0164b9c8ade7d",
-    "ts": "2026-11-21T22:44:47+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7455.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-f23f5464b7c7b85866fc",
     "ts": "2026-11-21T22:47:47+07:00",
     "agent": "BURU",
@@ -1325,6 +1288,45 @@
       "total_floor_bnb": 0.00615764,
       "total_volume_bnb": 0.004303,
       "source_file": "nft-floors-2026-11-22-0157-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-e42d8b4ede0e845514f4",
+    "ts": "2026-11-22T02:02:53+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {
+        "airdropjacks": 27276,
+        "bangpateng": 93691,
+        "happycuan": 29490
+      },
+      "source_log": "check-2026-11-22-0201.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-75f2c2922508b2842a12",
+    "ts": "2026-11-22T02:03:14+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.01101262,
+      "total_volume_bnb": 0.003233,
+      "source_file": "nft-floors-2026-11-22-0157-s3.jsonl"
+    }
+  },
+  {
+    "id": "evt-19eb9281573f4910681c",
+    "ts": "2026-11-22T02:04:18+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7665.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
