@@ -1,20 +1,5 @@
 [
   {
-    "id": "evt-1c8213e2ec990e80e0e1",
-    "ts": "2026-11-22T16:47:58+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27290,
-        "bangpateng": 93691,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-22-1646.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-bcfd44f265fe6fab66a8",
     "ts": "2026-11-22T16:49:30+07:00",
     "agent": "BURU",
@@ -1297,6 +1282,16 @@
       },
       "source_log": "check-2026-11-22-1936.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-5ec05d3ca48e058a9975",
+    "ts": "2026-11-22T19:41:59+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-22 19:41:43 WIB 592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036 6727 chars 72s ANSWERED ISR Jensen Huang testify Congress by Jan 1 2027 (Yes, 87, forecast)",
+      "job": "592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036"
     }
   }
 ]
