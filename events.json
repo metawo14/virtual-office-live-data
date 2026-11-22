@@ -1,18 +1,5 @@
 [
   {
-    "id": "evt-819bf81107135cc9a670",
-    "ts": "2026-11-22T10:02:22+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 29,
-      "http_ok": 29,
-      "total_floor_bnb": 0.01101262,
-      "total_volume_bnb": 0.003233,
-      "source_file": "nft-floors-2026-11-22-0957-s3.jsonl"
-    }
-  },
-  {
     "id": "evt-b4d7a17907d52ba03c3b",
     "ts": "2026-11-22T10:03:19+07:00",
     "agent": "BURU",
@@ -1289,6 +1276,17 @@
   {
     "id": "evt-4578236d7ee356fb2cd8",
     "ts": "2026-11-22T13:09:19+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7546.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-d9fe013576071a806da3",
+    "ts": "2026-11-22T13:14:24+07:00",
     "agent": "BURU",
     "type": "iao_check",
     "data": {
