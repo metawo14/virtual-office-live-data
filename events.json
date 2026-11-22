@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-c3e2c2045bd8b8a3a0c4",
-    "ts": "2026-11-22T06:57:13+07:00",
-    "agent": "BURU",
-    "type": "bagent",
-    "data": {
-      "detail": "[2026-11-22 06:57:13 WIB] BLOCKER: BNB 0.000512922898507126 < 0.001; stop semua klaim"
-    }
-  },
-  {
     "id": "evt-1900ee2b8bc8df8c3ee6",
     "ts": "2026-11-22T06:57:57+07:00",
     "agent": "BURU",
@@ -1299,6 +1290,19 @@
       "total_floor_bnb": 0.00100014,
       "total_volume_bnb": 0.004303,
       "source_file": "nft-floors-2026-11-22-0957-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-819bf81107135cc9a670",
+    "ts": "2026-11-22T10:02:22+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 29,
+      "http_ok": 29,
+      "total_floor_bnb": 0.01101262,
+      "total_volume_bnb": 0.003233,
+      "source_file": "nft-floors-2026-11-22-0957-s3.jsonl"
     }
   }
 ]
