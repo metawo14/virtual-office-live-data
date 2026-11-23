@@ -1,26 +1,5 @@
 [
   {
-    "id": "evt-94af3f01adbf2c579a36",
-    "ts": "2026-11-23T18:44:08+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-23-1841.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-13ab4db811536080adc2",
-    "ts": "2026-11-23T18:45:55+07:00",
-    "agent": "TUGAS",
-    "type": "dialectica",
-    "data": {
-      "detail": "2026-11-22 19:41:43 WIB 592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036 6727 chars 72s ANSWERED ISR Jensen Huang testify Congress by Jan 1 2027 (Yes, 87, forecast)",
-      "job": "592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036"
-    }
-  },
-  {
     "id": "evt-d3219433d89bd98da7ae",
     "ts": "2026-11-23T18:48:41+07:00",
     "agent": "BURU",
@@ -1170,6 +1149,30 @@
       "total_floor_bnb": 0.00615654,
       "total_volume_bnb": 0.004303,
       "source_file": "nft-floors-2026-11-23-2227-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-c08a7fbab0d04e622505",
+    "ts": "2026-11-23T22:35:47+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-23-2231.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-79a423ede62e5bdd2724",
+    "ts": "2026-11-23T22:35:47+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.01101262,
+      "total_volume_bnb": 0.003233,
+      "source_file": "nft-floors-2026-11-23-2227-s3.jsonl"
     }
   }
 ]
