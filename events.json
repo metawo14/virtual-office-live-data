@@ -1,46 +1,5 @@
 [
   {
-    "id": "evt-055a4e3e9512155a09c0",
-    "ts": "2026-11-23T06:21:56+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27296,
-        "bangpateng": 93698,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-23-0616.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-3170dfc819cc1c3cc49d",
-    "ts": "2026-11-23T06:26:06+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 7122.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-76ad77ad879cd4487e48",
-    "ts": "2026-11-23T06:27:42+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {
-        "airdropjacks": 27296,
-        "bangpateng": 93698,
-        "happycuan": 29490
-      },
-      "source_log": "check-2026-11-23-0621.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-7716e40193c192e56a72",
     "ts": "2026-11-23T06:29:36+07:00",
     "agent": "BURU",
@@ -1277,6 +1236,39 @@
       "total_floor_bnb": 0.02555595,
       "total_volume_bnb": 1.071624,
       "source_file": "nft-floors-2026-11-23-0927.jsonl"
+    }
+  },
+  {
+    "id": "evt-9b17bbd22d53d13456ea",
+    "ts": "2026-11-23T09:39:18+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 150,
+      "http_ok": 150,
+      "total_floor_bnb": 2.41067904,
+      "total_volume_bnb": 1.072262,
+      "source_file": "nft-floors-2026-11-23-0927.jsonl"
+    }
+  },
+  {
+    "id": "evt-409ddde817cc461f5bbb",
+    "ts": "2026-11-23T09:39:49+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7226.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-829eda12c8442888f462",
+    "ts": "2026-11-23T09:40:11+07:00",
+    "agent": "TUGAS",
+    "type": "loker",
+    "data": {
+      "findings_total": 66
     }
   }
 ]
