@@ -1,18 +1,5 @@
 [
   {
-    "id": "evt-74632eae83d3e86de809",
-    "ts": "2026-11-23T15:01:42+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.00615654,
-      "total_volume_bnb": 0.004303,
-      "source_file": "nft-floors-2026-11-23-1457-s2.jsonl"
-    }
-  },
-  {
     "id": "evt-7d0845ef52e51692cacb",
     "ts": "2026-11-23T15:03:23+07:00",
     "agent": "PASAR",
@@ -1279,6 +1266,16 @@
       "tg_latest": {},
       "source_log": "check-2026-11-23-1936.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-d45fc163921b5aec2b38",
+    "ts": "2026-11-23T19:40:57+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-22 19:41:43 WIB 592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036 6727 chars 72s ANSWERED ISR Jensen Huang testify Congress by Jan 1 2027 (Yes, 87, forecast)",
+      "job": "592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036"
     }
   }
 ]
