@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-d24b1bc9d1a382764e22",
-    "ts": "2026-11-23T14:19:19+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 6752.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-12831a85a1a45a140037",
     "ts": "2026-11-23T14:20:48+07:00",
     "agent": "BURU",
@@ -1286,6 +1275,17 @@
     "data": {
       "detail": "2026-11-22 19:41:43 WIB 592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036 6727 chars 72s ANSWERED ISR Jensen Huang testify Congress by Jan 1 2027 (Yes, 87, forecast)",
       "job": "592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036"
+    }
+  },
+  {
+    "id": "evt-9e3ea4333debfc29d610",
+    "ts": "2026-11-23T18:59:04+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-23-1856.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
