@@ -1,36 +1,5 @@
 [
   {
-    "id": "evt-d45fc163921b5aec2b38",
-    "ts": "2026-11-23T19:40:57+07:00",
-    "agent": "TUGAS",
-    "type": "dialectica",
-    "data": {
-      "detail": "2026-11-22 19:41:43 WIB 592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036 6727 chars 72s ANSWERED ISR Jensen Huang testify Congress by Jan 1 2027 (Yes, 87, forecast)",
-      "job": "592fbdd2-9b1a-4bf6-a5ee-ad0ad23c6036"
-    }
-  },
-  {
-    "id": "evt-1e4de9327f29827cb644",
-    "ts": "2026-11-23T19:43:34+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-23-1941.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-3ad63308e7ebd8cdf49b",
-    "ts": "2026-11-23T19:47:03+07:00",
-    "agent": "TUGAS",
-    "type": "dialectica",
-    "data": {
-      "detail": "2026-11-23T12:47:03Z job=cf4103d2-834a-4086-8d9e-038f4213cac6 chars=13563 elapsed=153s status=ANSWERED kind=ISR isr=2941d1a2-df0c-47e0-9149-1ac99164db39",
-      "job": "cf4103d2-834a-4086-8d9e-038f4213cac6"
-    }
-  },
-  {
     "id": "evt-19510b57c780708cb4b9",
     "ts": "2026-11-23T19:48:18+07:00",
     "agent": "BURU",
@@ -1172,6 +1141,41 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-23-2316.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-b08fc5eed20088557101",
+    "ts": "2026-11-23T23:29:45+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 8263.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-e8ae3355e69114c1c3fb",
+    "ts": "2026-11-23T23:30:09+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00154684,
+      "total_volume_bnb": 0.889032,
+      "source_file": "nft-floors-2026-11-23-2327-s1.jsonl"
+    }
+  },
+  {
+    "id": "evt-f58d8103496902141fec",
+    "ts": "2026-11-23T23:30:16+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-23-2321.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
