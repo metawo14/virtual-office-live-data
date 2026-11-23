@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-b154b39be1c03d10fdba",
-    "ts": "2026-11-24T03:00:19+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 6664.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-bb5ea78d85903508715c",
     "ts": "2026-11-24T03:02:32+07:00",
     "agent": "BURU",
@@ -1195,6 +1184,15 @@
       "mcap_usd": 7405.0,
       "trigger_usd": 1000000,
       "reached": false
+    }
+  },
+  {
+    "id": "evt-4e2bb053d5a6d68917dc",
+    "ts": "2026-11-24T06:57:07+07:00",
+    "agent": "BURU",
+    "type": "bagent",
+    "data": {
+      "detail": "[2026-11-24 06:57:07 WIB] BLOCKER: BNB 0.000512922898507126 < 0.001; stop semua klaim"
     }
   }
 ]
