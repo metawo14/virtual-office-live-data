@@ -1,40 +1,5 @@
 [
   {
-    "id": "evt-463d287339e51fdec3ce",
-    "ts": "2026-11-24T13:03:27+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.01101262,
-      "total_volume_bnb": 0.003233,
-      "source_file": "nft-floors-2026-11-24-1257-s3.jsonl"
-    }
-  },
-  {
-    "id": "evt-f1afa79b0edfca8509e7",
-    "ts": "2026-11-24T13:04:26+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-24-1301.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-e44f895912dc6c9b1c53",
-    "ts": "2026-11-24T13:04:39+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 8059.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-2191357631d686451aaa",
     "ts": "2026-11-24T13:05:22+07:00",
     "agent": "PASAR",
@@ -1165,6 +1130,41 @@
       "tg_latest": {},
       "source_log": "check-2026-11-24-1751.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-e6250938db59fd1b407b",
+    "ts": "2026-11-24T17:59:23+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-24-1756.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-9c016f08ffe479631cda",
+    "ts": "2026-11-24T17:59:25+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00154684,
+      "total_volume_bnb": 0.889032,
+      "source_file": "nft-floors-2026-11-24-1757-s1.jsonl"
+    }
+  },
+  {
+    "id": "evt-a2130a89e57437bab364",
+    "ts": "2026-11-24T17:59:49+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 7572.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
