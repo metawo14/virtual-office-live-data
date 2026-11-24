@@ -1,15 +1,5 @@
 [
   {
-    "id": "evt-b17249eb18be7cac7e25",
-    "ts": "2026-11-24T19:36:30+07:00",
-    "agent": "TUGAS",
-    "type": "dialectica",
-    "data": {
-      "detail": "2026-11-24T12:36:24Z d14d7209-e682-4eb8-9f90-2cc384fe451c 13738 chars ~120s ANSWERED",
-      "job": "d14d7209-e682-4eb8-9f90-2cc384fe451c"
-    }
-  },
-  {
     "id": "evt-916297efee340239c1ad",
     "ts": "2026-11-24T19:37:21+07:00",
     "agent": "PASAR",
@@ -1176,6 +1166,19 @@
       "total_floor_bnb": 0.00594674,
       "total_volume_bnb": 0.004303,
       "source_file": "nft-floors-2026-11-25-0027-s2.jsonl"
+    }
+  },
+  {
+    "id": "evt-e617a097059a161c4908",
+    "ts": "2026-11-25T00:33:01+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.01091262,
+      "total_volume_bnb": 0.003233,
+      "source_file": "nft-floors-2026-11-25-0027-s3.jsonl"
     }
   }
 ]
