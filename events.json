@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-1aafbe15e9d2ff0c434e",
-    "ts": "2026-11-26T02:21:30+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-0216.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-c2ec4908d36fe9b59aff",
-    "ts": "2026-11-26T02:25:38+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 5786.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-64294dad8b8a12f39102",
-    "ts": "2026-11-26T02:27:35+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-0221.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-22aef2df9dd9d458dfed",
     "ts": "2026-11-26T02:30:23+07:00",
     "agent": "PASAR",
@@ -1181,6 +1148,41 @@
       "total_floor_bnb": 0.01091252,
       "total_volume_bnb": 0.003233,
       "source_file": "nft-floors-2026-11-26-0627-s3.jsonl"
+    }
+  },
+  {
+    "id": "evt-6e4149b700993275fe6f",
+    "ts": "2026-11-26T06:35:03+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-26-0631.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-ba1e5f88a472091803fa",
+    "ts": "2026-11-26T06:35:16+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00683514,
+      "total_volume_bnb": 0.175056,
+      "source_file": "nft-floors-2026-11-26-0627-s4.jsonl"
+    }
+  },
+  {
+    "id": "evt-163c873f73f5de15eeb2",
+    "ts": "2026-11-26T06:35:27+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 5786.0,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
