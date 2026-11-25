@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-d6cfcdc0b8b064e7f47b",
-    "ts": "2026-11-25T06:57:36+07:00",
-    "agent": "BURU",
-    "type": "bagent",
-    "data": {
-      "detail": "[2026-11-25 06:57:36 WIB] BLOCKER: BNB 0.000512922898507126 < 0.001; stop semua klaim"
-    }
-  },
-  {
     "id": "evt-f84c02638e55e7661220",
     "ts": "2026-11-25T07:00:21+07:00",
     "agent": "BURU",
@@ -1184,6 +1175,17 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-25-1111.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-14e8c1476b5fd66d85c0",
+    "ts": "2026-11-25T11:25:09+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-25-1116.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
