@@ -1,27 +1,5 @@
 [
   {
-    "id": "evt-779f5069e6a652354af7",
-    "ts": "2026-11-25T15:15:32+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 5990.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-af6ba65cda0ffd500add",
-    "ts": "2026-11-25T15:18:58+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-25-1516.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-f34a467b231a2f4e7600",
     "ts": "2026-11-25T15:25:00+07:00",
     "agent": "BURU",
@@ -1163,6 +1141,27 @@
   {
     "id": "evt-76c4f5d9a63dc76fe35f",
     "ts": "2026-11-25T18:54:09+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-25-1851.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-6e11109ec70ce36b7c2d",
+    "ts": "2026-11-25T18:54:25+07:00",
+    "agent": "TUGAS",
+    "type": "dialectica",
+    "data": {
+      "detail": "2026-11-24T12:54:26Z job=89a5314c-2458-4ff6-9796-d149fbf52fcf chars=14797 elapsed=~180s status=ANSWERED kind=ISR isr=a6b2ad89-a716-45a2-aea4-1df5cf06df75",
+      "job": "89a5314c-2458-4ff6-9796-d149fbf52fcf"
+    }
+  },
+  {
+    "id": "evt-d99acad637e1f2d4ef1c",
+    "ts": "2026-11-25T18:55:02+07:00",
     "agent": "BURU",
     "type": "mint_watch",
     "data": {
