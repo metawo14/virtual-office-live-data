@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-27a515a2c9b6c3d2fa10",
-    "ts": "2026-11-25T02:50:15+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-25-0241.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-d28f47e65564a0077591",
     "ts": "2026-11-25T02:55:03+07:00",
     "agent": "BURU",
@@ -1186,6 +1175,19 @@
       "http_ok": 120,
       "total_floor_bnb": 0.02546241,
       "total_volume_bnb": 1.071624,
+      "source_file": "nft-floors-2026-11-25-0657.jsonl"
+    }
+  },
+  {
+    "id": "evt-123e711f7032e9aa9025",
+    "ts": "2026-11-25T07:13:06+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 177,
+      "http_ok": 177,
+      "total_floor_bnb": 2.41622824,
+      "total_volume_bnb": 29.47168694,
       "source_file": "nft-floors-2026-11-25-0657.jsonl"
     }
   }
