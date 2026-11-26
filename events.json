@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-44bcaf935561e0f34b1e",
-    "ts": "2026-11-26T15:13:40+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-1512.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-531d1d77f01ea56efe23",
-    "ts": "2026-11-26T15:15:30+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": null,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-4ab95525d55060754558",
-    "ts": "2026-11-26T15:15:52+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-1514.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-773b2d1609dae9257385",
     "ts": "2026-11-26T15:17:38+07:00",
     "agent": "BURU",
@@ -1139,6 +1106,41 @@
       "tg_latest": {},
       "source_log": "check-2026-11-26-1756-rutin.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-acfaf92604a74ba5f8ec",
+    "ts": "2026-11-26T17:59:29+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": null,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-da1031c811b8ce338e1e",
+    "ts": "2026-11-26T17:59:39+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-26-1758.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-445f860df295e7775fcf",
+    "ts": "2026-11-26T17:59:50+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00156284,
+      "total_volume_bnb": 0.889032,
+      "source_file": "nft-floors-2026-11-26-1757-s1.jsonl"
     }
   }
 ]
