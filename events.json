@@ -1,40 +1,5 @@
 [
   {
-    "id": "evt-56f96ff3257cbfd82f89",
-    "ts": "2026-11-26T12:00:03+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-1156.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-88f3b37c843ba699ba70",
-    "ts": "2026-11-26T12:00:22+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.00156284,
-      "total_volume_bnb": 0.889032,
-      "source_file": "nft-floors-2026-11-26-1157-s1.jsonl"
-    }
-  },
-  {
-    "id": "evt-f71a0930682fc25ae8d9",
-    "ts": "2026-11-26T12:01:10+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": null,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-29e5c4dd420417600d65",
     "ts": "2026-11-26T12:02:21+07:00",
     "agent": "PASAR",
@@ -1155,6 +1120,41 @@
       "tg_latest": {},
       "source_log": "check-2026-11-26-1454.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-8362857f6a478a7dd6d8",
+    "ts": "2026-11-26T14:59:43+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-26-1456.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-92a8ffe9964acc85ea6d",
+    "ts": "2026-11-26T14:59:56+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": null,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-6556778a5485aac11b2b",
+    "ts": "2026-11-26T15:00:12+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00156284,
+      "total_volume_bnb": 0.889032,
+      "source_file": "nft-floors-2026-11-26-1457-s1.jsonl"
     }
   }
 ]
