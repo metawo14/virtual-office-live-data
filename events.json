@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-692a5502bc0935377c3c",
-    "ts": "2026-11-26T04:48:04+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-0446.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-88973b381024bf0da82a",
-    "ts": "2026-11-26T04:53:23+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-0451.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-c440c02c94f56a620e4a",
-    "ts": "2026-11-26T04:59:27+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-0456.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-582a28efd4b3d67d430b",
     "ts": "2026-11-26T05:00:09+07:00",
     "agent": "PASAR",
@@ -1173,6 +1140,41 @@
       "total_floor_bnb": 2.38504651,
       "total_volume_bnb": 0.000638,
       "source_file": "nft-floors-2026-11-26-0827-s5.jsonl"
+    }
+  },
+  {
+    "id": "evt-ac41442c6ee30b6c8b01",
+    "ts": "2026-11-26T08:38:24+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 27,
+      "http_ok": 27,
+      "total_floor_bnb": 0.00572214,
+      "total_volume_bnb": 28.39992494,
+      "source_file": "nft-floors-2026-11-26-0827-s6.jsonl"
+    }
+  },
+  {
+    "id": "evt-8e098bdedfaab090f137",
+    "ts": "2026-11-26T08:38:47+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-26-0836.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-ac95db116ba852d5ab1c",
+    "ts": "2026-11-26T08:39:56+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": null,
+      "trigger_usd": 1000000,
+      "reached": false
     }
   }
 ]
