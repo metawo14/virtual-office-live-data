@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-b3fc8761e2d25061eac7",
-    "ts": "2026-11-26T16:25:53+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-1624.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-e560bca33ef9c5185f07",
-    "ts": "2026-11-26T16:27:44+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-1626.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-deaa88cd431f96ba5bc0",
-    "ts": "2026-11-26T16:29:26+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": null,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-bf29e3ba464f473e2a2f",
     "ts": "2026-11-26T16:30:00+07:00",
     "agent": "BURU",
@@ -1145,6 +1112,41 @@
       "total_floor_bnb": 0.00683514,
       "total_volume_bnb": 0.175056,
       "source_file": "nft-floors-2026-11-26-1857-s4.jsonl"
+    }
+  },
+  {
+    "id": "evt-9a64e5925212fbdae7bf",
+    "ts": "2026-11-26T19:04:29+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": null,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-d24c3b962460a338aa7a",
+    "ts": "2026-11-26T19:05:27+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-26-1904.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-fe20ac900ff1781bc4a5",
+    "ts": "2026-11-26T19:05:33+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 2.38504651,
+      "total_volume_bnb": 0.000638,
+      "source_file": "nft-floors-2026-11-26-1857-s5.jsonl"
     }
   }
 ]
