@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-b87ac92427c56bb089fe",
-    "ts": "2026-11-26T20:27:56+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-2026.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-f24aaeddfab9417f7dfb",
-    "ts": "2026-11-26T20:28:53+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-2026-rutin.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-020a3662ff2bb1786b56",
-    "ts": "2026-11-26T20:29:29+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": null,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
     "id": "evt-d8697bb1413d61fff32b",
     "ts": "2026-11-26T20:29:56+07:00",
     "agent": "PASAR",
@@ -1144,6 +1111,41 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-26-2303.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-84b4c375a255778d85cb",
+    "ts": "2026-11-26T23:04:51+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00683514,
+      "total_volume_bnb": 0.175056,
+      "source_file": "nft-floors-2026-11-26-2257-s4.jsonl"
+    }
+  },
+  {
+    "id": "evt-98e91b62660d96e7aaab",
+    "ts": "2026-11-26T23:04:51+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": null,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-55a5cf8bd92b45f15fba",
+    "ts": "2026-11-26T23:06:07+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-26-2305.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
