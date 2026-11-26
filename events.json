@@ -1,27 +1,5 @@
 [
   {
-    "id": "evt-e67b52d0acf84f8bbb99",
-    "ts": "2026-11-26T23:41:30+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-2340.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-bcd6f44f6f937c378198",
-    "ts": "2026-11-26T23:43:49+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-26-2342.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-19452d9142907a37e3a0",
     "ts": "2026-11-26T23:44:30+07:00",
     "agent": "BURU",
@@ -1142,6 +1120,30 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-27-0232.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-68bf23b30ded294866df",
+    "ts": "2026-11-27T02:35:08+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.01091252,
+      "total_volume_bnb": 0.003233,
+      "source_file": "nft-floors-2026-11-27-0227-s3.jsonl"
+    }
+  },
+  {
+    "id": "evt-5410f8d20842ed9c2505",
+    "ts": "2026-11-27T02:35:32+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-27-0231-rutin.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
