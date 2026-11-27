@@ -1,16 +1,5 @@
 [
   {
-    "id": "evt-e86e31805c947e3122d5",
-    "ts": "2026-11-27T08:03:27+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-27-0802.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-3b0c2c2b5581217a2738",
     "ts": "2026-11-27T08:04:22+07:00",
     "agent": "PASAR",
@@ -1154,6 +1143,17 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-27-1038.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-27d8444cc024889e8477",
+    "ts": "2026-11-27T10:42:17+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-27-1040.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
