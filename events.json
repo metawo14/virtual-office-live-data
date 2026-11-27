@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-a1dc58b21709b77aa786",
-    "ts": "2026-11-27T09:46:51+07:00",
-    "agent": "TUGAS",
-    "type": "loker",
-    "data": {
-      "findings_total": 80
-    }
-  },
-  {
     "id": "evt-40905ec239a39823910e",
     "ts": "2026-11-27T09:48:05+07:00",
     "agent": "BURU",
@@ -1152,6 +1143,17 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-27-1210.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-83d9ff2e2aac296ebab3",
+    "ts": "2026-11-27T12:13:39+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-27-1212.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
