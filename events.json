@@ -1,38 +1,5 @@
 [
   {
-    "id": "evt-ae4e6940785d9c5e8420",
-    "ts": "2026-11-27T06:18:52+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-27-0616-rutin.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-c5aded012f7d852d80c9",
-    "ts": "2026-11-27T06:22:00+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-27-0620.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-1637f10d7f00ff2a6a1e",
-    "ts": "2026-11-27T06:23:55+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-27-0621-rutin.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
     "id": "evt-b006ae96e5969259eb02",
     "ts": "2026-11-27T06:24:51+07:00",
     "agent": "BURU",
@@ -1142,6 +1109,41 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-27-0856.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-765481da4ce4878fea64",
+    "ts": "2026-11-27T09:00:43+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": null,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-31d6515e90c7d9f361a3",
+    "ts": "2026-11-27T09:00:57+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 30,
+      "http_ok": 30,
+      "total_floor_bnb": 0.00156284,
+      "total_volume_bnb": 0.889032,
+      "source_file": "nft-floors-2026-11-27-0857-s1.jsonl"
+    }
+  },
+  {
+    "id": "evt-3105a42b0c2d4193e8d8",
+    "ts": "2026-11-27T09:01:59+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-27-0900.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
