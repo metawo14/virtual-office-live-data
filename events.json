@@ -1,14 +1,5 @@
 [
   {
-    "id": "evt-3bac306ba2193628c18d",
-    "ts": "2026-11-27T22:04:17+07:00",
-    "agent": "TUGAS",
-    "type": "loker",
-    "data": {
-      "findings_total": 81
-    }
-  },
-  {
     "id": "evt-21d63954683ce9b6a240",
     "ts": "2026-11-27T22:04:56+07:00",
     "agent": "BURU",
@@ -1161,6 +1152,17 @@
       "total_floor_bnb": 10.0057036,
       "total_volume_bnb": 28.40017494,
       "source_file": "nft-floors-2026-11-28-0057-s6.jsonl"
+    }
+  },
+  {
+    "id": "evt-4fdb38b4082ba0dfd51d",
+    "ts": "2026-11-28T01:16:10+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-28-0114-koncet.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
 ]
