@@ -1,40 +1,5 @@
 [
   {
-    "id": "evt-ed42e33aa9b650d1ef10",
-    "ts": "2026-11-28T16:58:38+07:00",
-    "agent": "BURU",
-    "type": "mint_watch",
-    "data": {
-      "tg_latest": {},
-      "source_log": "check-2026-11-28-1656-rutin.log",
-      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
-    }
-  },
-  {
-    "id": "evt-152a9fd37f6c420a7314",
-    "ts": "2026-11-28T16:59:33+07:00",
-    "agent": "BURU",
-    "type": "iao_check",
-    "data": {
-      "mcap_usd": 6071.0,
-      "trigger_usd": 1000000,
-      "reached": false
-    }
-  },
-  {
-    "id": "evt-67a37ec3b5a500d9a0a1",
-    "ts": "2026-11-28T17:00:52+07:00",
-    "agent": "PASAR",
-    "type": "sell_watch",
-    "data": {
-      "collections": 30,
-      "http_ok": 30,
-      "total_floor_bnb": 0.00156284,
-      "total_volume_bnb": 0.889032,
-      "source_file": "nft-floors-2026-11-28-1657-s1.jsonl"
-    }
-  },
-  {
     "id": "evt-940ded577df7f932c11d",
     "ts": "2026-11-28T17:02:46+07:00",
     "agent": "PASAR",
@@ -1182,6 +1147,41 @@
     "data": {
       "tg_latest": {},
       "source_log": "check-2026-11-28-2051-rutin.log",
+      "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
+    }
+  },
+  {
+    "id": "evt-174520df6b9ea709b9cf",
+    "ts": "2026-11-28T20:58:14+07:00",
+    "agent": "BURU",
+    "type": "iao_check",
+    "data": {
+      "mcap_usd": 5982.0,
+      "trigger_usd": 1000000,
+      "reached": false
+    }
+  },
+  {
+    "id": "evt-3abfc121407dd438182d",
+    "ts": "2026-11-28T21:10:44+07:00",
+    "agent": "PASAR",
+    "type": "sell_watch",
+    "data": {
+      "collections": 28,
+      "http_ok": 28,
+      "total_floor_bnb": 10.0047036,
+      "total_volume_bnb": 28.40020194,
+      "source_file": "nft-floors-2026-11-28-2057-s6.jsonl"
+    }
+  },
+  {
+    "id": "evt-e65d1e9cd1afa6566111",
+    "ts": "2026-11-28T21:20:33+07:00",
+    "agent": "BURU",
+    "type": "mint_watch",
+    "data": {
+      "tg_latest": {},
+      "source_log": "check-2026-11-28-2116-rutin.log",
       "note": "cek rutin mint-watch 5 menit selesai; hasil detail di daily log"
     }
   }
